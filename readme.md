@@ -1,6 +1,6 @@
-# Branching Example
+# Branching, Merging, and Rebasing
 
-- This repo is for demonstrating how branching, merging, and rebasing works with git.
+- This repo is for demonstrating how **branching**, **merging**, and **rebasing** works with git.
 
 git branch
 git switch -c readme
