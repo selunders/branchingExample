@@ -1,12 +1,18 @@
-# Branching, Merging, and Rebasing
+# Useful Git Commands
+## Table of Contents:
+- Branching
+- Merging
+- rebasing
+--------------------
 
-- This repo is for demonstrating how **branching**, **merging**, and **rebasing** works with git.
+This repo is for demonstrating how **branching**, **merging**, and **rebasing** works with git.
 
 git branch
+
 git switch -c readme
 
 To Do:
---------------------
+-----------------
 - [ ] change readme to md
 - [ ] commit changes
 - [ ] git switch main
